@@ -4,10 +4,10 @@ const Sliders = () => {
   const [indiceImagenes, setIndiceImagenes] = useState(0);
   const tiempo = 4000;
   const imagenes = [
-    '/public/cabecera1.jpg',
-    '/public/cabecera2.jpg',
-    '/public/cabecera1.jpg',
-    '/public/cabecera2.jpg',
+    '/src/components/homeCarpeta/imagenes/cabecera1.jpg',
+    '/src/components/homeCarpeta/imagenes/cabecera2.jpg',
+    '/src/components/homeCarpeta/imagenes/cabecera1.jpg',
+    '/src/components/homeCarpeta/imagenes/cabecera2.jpg',
   ];
 
   useEffect(() => {

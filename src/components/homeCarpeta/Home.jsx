@@ -1,9 +1,4 @@
 import React, { useEffect } from "react";
-import Sliders from "./Sliders";
-import CardsRellenos from "./CardsRellenos";
-import Clientes from "./Clientes";
-import Formulario from "./Formulario";
-import PiePagina from "./PiePagina";
 import WspIcono from "./WspIcono";
 
 const Home = () => {
@@ -23,7 +18,7 @@ const Home = () => {
         <div className="flex items-center flex-shrink-0 text-white mr-6">
           <div className="avatar">
             <div className="w-24 rounded-full">
-              <img src="/public/logo.jpeg" />
+              <img src="/src/components/homeCarpeta/imagenes/logo.jpeg" />
             </div>
           </div>
         </div>

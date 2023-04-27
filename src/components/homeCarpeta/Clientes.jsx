@@ -5,11 +5,11 @@ const Clientes = () => {
     const [indiceImagenes, setIndiceImagenes] = useState(0);
     const tiempo = 4000;
     const imagenes = [
-      '/public/cliente1.jpeg',
-      '/public/cliente2.jpeg',
-      '/public/cliente3.jpeg',
-      '/public/cliente4.jpeg',
-      '/public/cliente5.jpeg',
+      '/src/components/homeCarpeta/imagenes/cliente1.jpeg',
+      '/src/components/homeCarpeta/imagenes/cliente2.jpeg',
+      '/src/components/homeCarpeta/imagenes/cliente3.jpeg',
+      '/src/components/homeCarpeta/imagenes/cliente4.jpeg',
+      '/src/components/homeCarpeta/imagenes/cliente5.jpeg',
     ];
   
     useEffect(() => {

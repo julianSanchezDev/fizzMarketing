@@ -8,7 +8,7 @@ const PreguntasFrecuentes = () => {
   <input type="checkbox" class="peer" />
   <div class="collapse-title">
     <div class="flex items-center">
-      <img src="/src/assets/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
+      <img src="/src/components/homeCarpeta/imagenes/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
       <a href="#" class="inline-block align-middle text-base">
         Como funciona una Agencia de Marketing en Argentina ?
       </a>
@@ -26,7 +26,7 @@ const PreguntasFrecuentes = () => {
   <input type="checkbox" class="peer" />
   <div class="collapse-title">
     <div class="flex items-center">
-      <img src="/src/assets/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
+      <img src="/src/components/homeCarpeta/imagenes/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
       <a href="#" class="inline-block align-middle text-base">
         Cuando es momento para contratar una empresa de Marketing Digital ?
       </a>
@@ -48,7 +48,7 @@ Los objetivos pueden ser variados, pero los resultados están garantizados.
   <input type="checkbox" class="peer" />
   <div class="collapse-title">
     <div class="flex items-center">
-      <img src="/src/assets/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
+      <img src="/src/components/homeCarpeta/imagenes/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
       <a href="#" class="inline-block align-middle text-base">
         Como se que servicio me conviene mas ?
       </a>
@@ -76,7 +76,7 @@ Los objetivos pueden ser variados, pero los resultados están garantizados.
   <input type="checkbox" class="peer" />
   <div class="collapse-title">
     <div class="flex items-center">
-      <img src="/src/assets/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
+      <img src="/src/components/homeCarpeta/imagenes/mas.png" alt="Icono" class="w-5 h-5 mr-2" />
       <a href="#" class="inline-block align-middle text-base">
         Como pedir un presupuesto ?
       </a>
